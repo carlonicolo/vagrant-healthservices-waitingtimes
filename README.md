@@ -4,8 +4,8 @@ This support project allows to completly automatize the process of installation 
 ## Prerequisites
 
 In order to use the Vagrant file is needed to create:
-* the folder project in the host machine
-* the folder project in the guest machine with this path vagrant/project as specified in the Vagrant file.
+* the folder projects in the host machine
+* the folder projects in the guest machine with this path vagrant/projects as specified in the Vagrant file.
 
 ```
 # Share an additional folder to the guest VM. The first argument is
@@ -18,6 +18,8 @@ In this way will be possible to work mantaining the folders syncronized.
 
 
 ### Vagrant script
+Download the [Vagrant](https://github.com/carlonicolo/vagrant-healthservices-waitingtimes/blob/master/Vagrantfile) file and the [deploySouth.sh](https://github.com/carlonicolo/vagrant-healthservices-waitingtimes/blob/master/deploySouth.sh) in the main folder of Vagrant machine and then reload the machine.
+
 
 Automatically:
 * download and install OS dependencies;
