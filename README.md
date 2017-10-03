@@ -42,4 +42,3 @@ At this point the server will be recheable from the host machine typing typing i
 ```
 http://locahost:8080
 ```
-
