@@ -38,7 +38,7 @@ vagrant/projects/healthservices-waitingtimes
 vagrant@vagrant$./deployment.run
 ```
 
-At this point the server will be recheable from the host machine typing typing in the browser the following address:
+At this point the server will be recheable from the host machine typing in the browser the following address:
 ```
 http://locahost:8080
 ```
