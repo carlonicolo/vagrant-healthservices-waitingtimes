@@ -5,7 +5,7 @@ This support project allows to completly automatize the process of installation 
 
 In order to use the Vagrant file is needed to create:
 * the folder project in the host machine
-* the folder project in the guest machine with this path vagrant/project as specified in the Vagrant file:
+* the folder project in the guest machine with this path vagrant/project as specified in the Vagrant file.
 
 ```
 # Share an additional folder to the guest VM. The first argument is
